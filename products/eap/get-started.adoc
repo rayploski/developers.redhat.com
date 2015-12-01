@@ -9,7 +9,7 @@ Prerequisites &#38; Required Dependencies Checklist
 2. JBoss&#174; Developer Studio 8.1 with EAP
 
 == Step1 Duration
-10 minutes
+5 minutes
 
 == Step2 Duration
 5 minutes
